@@ -83,5 +83,4 @@ while machine_on:
             else:
                 print("Please Try Again....\n")
     else:
-        print("Sorry.....\nYou Entered something wrong.... \nPlease Try Again With Right Choice.....\n")
-        continue
+        print("Sorry.....\nYou Entered something wrong.... \nPlease Try Again With Right Choice.....")
